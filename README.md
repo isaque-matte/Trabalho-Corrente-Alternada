@@ -54,11 +54,13 @@ O script foi desenvolvido de forma interativa e sequencial:
 * L Ideal: **0.45 mH** $\rightarrow$ L Comercial Selecionado: **0.47 mH**
 * C Ideal: **14.07 uF** $\rightarrow$ C Comercial Selecionado: **15.00 uF**
 
+![a](Imagens/Filtro_Baixas.png)
+
 **Filtro Passa-Altas (Tweeter):**
 * L Ideal: **0.90 mH** $\rightarrow$ L Comercial Selecionado: **0.82 mH**
 * C Ideal: **7.03 uF** $\rightarrow$ C Comercial Selecionado: **6.80 uF**
 
-*(Insira aqui os prints dos gráficos de Bode gerados pelo MATLAB para os "Figures 1 e 2" para ilustrar as curvas).*
+![a](Imagens/Filtro_Altas.png)
 
 ---
 
