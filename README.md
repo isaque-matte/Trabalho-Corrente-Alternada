@@ -1,6 +1,6 @@
 # Trabalho Final CA Filtros
 
-**Autor:** [Isaque Schneider Matte]  
+**Autor:** Isaque Schneider Matte  
 **Disciplina:** Circuitos de Corrente Alternada  
 
 ---
@@ -44,7 +44,6 @@ O script foi desenvolvido de forma interativa e sequencial:
 * Frequência de corte: **2000**
 * Impedância: **8**
 * Fator de qualidade: **0.707**
-4. Os valores calculados serão exibidos no console e duas janelas gráficas (`Figure 1` e `Figure 2`) se abrirão mostrando os Diagramas de Bode comparativos.
 
 ---
 
@@ -76,6 +75,6 @@ Ao adaptar os valores matemáticos perfeitos para os componentes reais restritos
 
 O projeto atingiu plenamente seus objetivos. O código é funcional e demonstrou com sucesso o comportamento dos filtros teóricos versus reais. 
 
-O maior desafio deste projeto foi lidar com o fato de que as topologias requerem valores elétricos bastante específicos, e o distanciamento comercial impactou as duas vias em direções opostas (o LPF cortou mais cedo e o HPF cortou mais tarde). 
+O maior desafio deste projeto foi lidar com o fato de que não existe um valor comercial dos componentes necessários. 
 
 A principal lição de engenharia é que projetar não se trata apenas de calcular números perfeitos no papel, mas de saber lidar com tolerâncias. A limitação de componentes ensina que um bom engenheiro deve prever as variações do mundo real, simular os piores cenários e avaliar se o comprometimento no desempenho final atende ou não aos critérios de qualidade do produto desejado.
